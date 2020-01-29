@@ -1,0 +1,2 @@
+# GitDemoSample
+For studying Git
